@@ -3,4 +3,6 @@
     <string name="todo">TODO</string>
     <string name="the_maze_runner">The Maze Runner</string>
     <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="_200_score">200 score</string>
 </resources>
